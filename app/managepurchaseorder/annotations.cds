@@ -1,4 +1,4 @@
-using CatalogService as service from '../../srv/CatalogService';
+
 
 
 annotate service.POs with @(
